@@ -1,0 +1,42 @@
+/* CSS for styling the heading using class selector */
+.heading {
+    color: blue;
+    font-size: 24px;
+  }
+  
+  /* CSS for styling the list items using id selector */
+  #hobbies-list li {
+    font-weight: bold;
+  }
+  
+  /* CSS for styling the anchor tag using element selector */
+  a{
+    color: red;
+    text-decoration: none;
+  }
+  a:hover{
+    color: green;
+    text-decoration: none;
+  }
+  
+  /* CSS for styling all elements using * selector */
+  * {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Additional CSS properties and values */
+  body {
+    background-color:aquamarine;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
+  i {
+    font-style: italic;
+    color: #555;
+  }
+  
